@@ -1,0 +1,6 @@
+# Clojure
+.cpcache/
+.nrepl-port
+.lsp/
+.clj-kondo/.cache/
+/.nrepl-history
